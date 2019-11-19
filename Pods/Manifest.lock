@@ -1,0 +1,22 @@
+PODS:
+  - MJRefresh (3.2.2)
+  - VTMagic (1.2.4):
+    - VTMagic/Core (= 1.2.4)
+  - VTMagic/Core (1.2.4)
+
+DEPENDENCIES:
+  - MJRefresh
+  - VTMagic
+
+SPEC REPOS:
+  trunk:
+    - MJRefresh
+    - VTMagic
+
+SPEC CHECKSUMS:
+  MJRefresh: 72a46ecaa2a0feaf48fc5198dff95f25f8bb27c6
+  VTMagic: b49e5f456dbcbfd9a3588ba92417233a105bc193
+
+PODFILE CHECKSUM: f174aaea139434e35ff9297213a08aaf44527b31
+
+COCOAPODS: 1.8.4
